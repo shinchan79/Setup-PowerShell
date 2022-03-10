@@ -155,6 +155,7 @@ We need create a folder powershell from `.config` after create a file .ps1
     type: :wq + enter
 
 # The End. THANK FOR READING MY REPO!!!
+## [It's About Me](https://linktr.ee/nulldoot)
 ### Donate me if you want😘:
 ### `STK`: **`103868801400`** - **`ViettinBank`** 🥴
 
