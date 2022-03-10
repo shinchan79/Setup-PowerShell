@@ -7,7 +7,7 @@
 
 > I love my prompt 😘
 
-![alt](https://link)
+![main](image/main.png)
 
 Follow me:
 
@@ -16,11 +16,11 @@ Follow me:
 -
     I don't mean Windows PowerShell (that's "classic" now) I mean the .NET Core-powered cross-platform PowerShell. There's a LOT of ways to get it but I'm a Store person usually so I can get PowerShell (and it'll auto update) from the Microsoft Store or just **`winget install Microsoft.PowerShell`** from the command line with winget.
 >
-![alt](https://link)
+![powershell](image/powershell.png)
 
 > **Step2:** **`UPGRADE YOUR TERMINAL/CONSOLE FONTS`**
 
-![alt](https://link)
+![font](image/font.png)
 
 -   Link font: [font](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/CascadiaCode.zip?WT.mc_id=-blog-scottha)
 
@@ -61,7 +61,7 @@ Follow me:
         - Theme: Dark
         - Click: Show acrylic in tab row...    
 > Result <br>
-![alt](https://link)
+![bold](image/git.png)
 
 > **Step3:** **`A COMMAND-LINE INSTALLER FOR WINDOWS`**
 ### Get comfortable on the Windows command line 
@@ -82,7 +82,7 @@ Looking for familiar Unix tools? Tired of Powershell’s Verb-Noun verbosity? Sc
     Create a folder: nvim || mkdir ~\AppData\Local\nvim
     After: 
     nvim ~\AppData\Local\nvim\init.vim
-For Exam: [Nvim](https://google.com)     
+For Exam: [Nvim](init.vim)
 
 > **Step5:** **`ADD "OH MY POSH" TO YOUR SHELL`**
 
@@ -140,9 +140,9 @@ For Exam: [Nvim](https://google.com)
 
     Import-Module -Name Terminal-Icons
 >
-For Exam: [PowerShell](https://google.com)
+For Exam: [PowerShell](Microsoft.PowerShell_profile.ps1)
 
-![alt](https://link)
+![main](image/main.png)
 
 > **`Step5`**: **`Alias`**
 We need create a folder powershell from `.config` after create a file .ps1
@@ -160,8 +160,8 @@ We need create a folder powershell from `.config` after create a file .ps1
 
 For Example: 
 
-- [PowerShell](https://google.com) <br>
-- [ohmyposhv3-v2.json]() <br>
-- [Nvim](https://google.com) <br>
-- [Alias](https://google.com) <br>
-- [SettingJSON](https://google.com) <br>
+- [PowerShell](Microsoft.PowerShell_profile.ps1) <br>
+- [ohmyposhv3-v2.json](ohmyposhv3-v2.json) <br>
+- [Nvim](init.vim) <br>
+- [Alias](user_profile.ps1) <br>
+- [SettingJSON](settings.json) <br>
